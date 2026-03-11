@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>Spring6Demo01</module>
+        <module>Spring6Demo02DIY</module>
     </modules>
 
     <properties>

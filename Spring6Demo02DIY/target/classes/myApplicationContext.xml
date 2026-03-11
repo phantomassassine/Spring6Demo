@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--自定义配置文件-->
+<beans>
+    <bean id="person" class="org.example.pojo.Person"></bean>
+    <bean id="user" class="org.example.pojo.User"></bean>
+</beans>
